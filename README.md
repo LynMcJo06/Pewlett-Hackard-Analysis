@@ -30,14 +30,15 @@ Manager	                 2
 TOTAL	              90,398
 ![image](https://user-images.githubusercontent.com/84352487/128947439-2a424ca4-e58b-4965-bd6b-a253a12fc285.png)
 
-As depicted in this table, approximately 57,700 senior-level staff are eligible for retirement, two of which are department managers.  That will be an enormous loss to PH in:  
-  * leadership
-  * institutional knowledge
-  * employee morale (both positive and negative)
-  * net contributions to the pension plan
+As depicted in this table, approximately 57,700 senior-level staff are eligible for retirement, two of which are department managers.  The potential impacts to PH could be :  
+  * lack of leadership
+  * loss of "institutional" knowledge
+  * impacts to employee morale (both positive and negative)
+  * lower net contributions to the pension plan
+  * lower productivity
 
 ### Analysis Two Results
-In determining the employees eligible for the mentorship program, I filtered the data to show employees that were born in 1965.  This date was selected because they are technically "eligible" for retirement but are more likely not ready to retire.  However, these employees might be willing to step back into a part-time role, which would give them more time for non-work activities.  The following table summarizes the results of this analysis:  
+In determining the employees eligible for the mentorship program, I filtered the data to show employees that were born in 1965.  This date was selected because they are technically "eligible" for retirement, but may not be ready to fully retire.  These employees might be willing to step back into a part-time role, which would give them more time for non-work activities.  After reviewing the table, I decided to perform one additional query.  I wrote script to count the number of employees eligible for the program based on their titles.  I wanted to compare this list to the list created in Analysis one.  The following table summarizes the results of this analysis:  
 TITLE	              NUMBER
 Senior Staff	        433
 Engineer	            400
@@ -48,6 +49,13 @@ Assistant Engineer	   65
 TOTAL	              1,549
 ![image](https://user-images.githubusercontent.com/84352487/128948824-a982ea15-946d-4a8f-bf2b-f1a9a1ffe1b6.png)
 
-Appxoximately 716 senior-level staff members are eligible for the mentorship program.  That is only 1% of the senior-level retirement population calculated in Analysis 1.  The overall number of 1,549 employees eligible for the mentorship program is approximately 1% of the total population eligible to retire.  I suggest that retirement eligible employees be polled to determine if more would be interested in the mentorship program. Implementing a phased retirement incentive has been proven to retain vital knowledge.  Having senior staff mentor younger staff members is vital to any organization.   
+Appxoximately 716 senior-level staff members are eligible for the mentorship program.  That is approximately 1% of the senior-level retirement population that was calculated in Analysis One.  A mentorship program is a great idea that can have the following impacts:  
+  * newer employees are acclimated into the company's culture 
+  * it can foster a sense of achievement
+  * benefits the company in production and productivity
+  * if could lead to frustration especially if the employees are not a good match
+Another possible option would be to poll the retirement eligible employees to determine if more would be interested in participating in the mentorship program. In hindsight, filtering the data for only employees born in 1965 is limiting. 
+## Summary
+In summary, the company has a very large amount of employees that could potentially retire in the near future.  The majority of these employees hold senior-level positions.  It would be in the company's best interest to make sure the younger employees are prepared for these advanced roles.  The company needs to develop programs and incentives to address the large void that will occur as these more seasoned employees retire.  
 
 
